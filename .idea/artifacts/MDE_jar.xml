@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MDE:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MDE_jar</output-path>
+    <root id="archive" name="MDE.jar">
+      <element id="module-output" name="MDE" />
+    </root>
+  </artifact>
+</component>

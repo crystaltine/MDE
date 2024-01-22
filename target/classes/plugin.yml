@@ -1,0 +1,10 @@
+name: MDE
+version: '1.0-SNAPSHOT'
+main: org.crystaltine.mde.MDE
+api-version: '1.20'
+commands:
+    mde:
+        description: base MDE command
+        usage: /mde <directive> [args]
+        permission: mde.all
+        permission-message: You don't have permission to use this command.
