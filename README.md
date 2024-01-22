@@ -10,3 +10,4 @@ You have all rights to extend it and play around with the source code.
 For those daring enough to try, copy the JAR file in `./out/artifacts/MDE_jar/` into your Spigot plugins folder.
 
 ### Run `/mde help` in-game to get started!
+#### Note: I'm pretty sure running files only works on Windows, because of how the processes are created...
